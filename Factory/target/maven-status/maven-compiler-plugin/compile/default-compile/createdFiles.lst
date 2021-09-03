@@ -1,0 +1,8 @@
+Principal\ConexionFabrica.class
+Impl\ConexionMySQL.class
+Impl\ConexionPostgresSQL.class
+Principal\App.class
+Impl\ConexionSQLServer.class
+Inter\IConexion.class
+Impl\ConexionVacia.class
+Impl\ConexionOracle.class
